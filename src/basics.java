@@ -15,8 +15,7 @@ public class basics {
 		// TODO Auto-generated method stub
 		
 		// Validate if AddPlace API is working as expected	
-		
-		
+				
 		//First set Base URI
 		RestAssured.baseURI="https://rahulshettyacademy.com";
 		

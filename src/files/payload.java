@@ -4,6 +4,7 @@ public class payload {
 
 	public static String AddPlace() {
 		
+		
 		return "{\r\n" + 
 				"  \"location\": {\r\n" + 
 				"    \"lat\": -38.383494,\r\n" + 

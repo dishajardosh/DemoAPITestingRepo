@@ -9,5 +9,6 @@ public class reUsableMethods {
 	{
 		JsonPath js1 = new JsonPath(response);
 		return js1;
+		
 	}
 }
