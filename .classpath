@@ -117,5 +117,6 @@
 	<classpathentry kind="lib" path="C:/REST-Assured Testing/RESTAssured Libraries/xml-path-4.3.3-dist/xml-path-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
 	<classpathentry kind="lib" path="C:/REST-Assured Testing/RESTAssured Libraries/xml-path-4.3.3-dist/xml-path-4.3.3-deps/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/REST-Assured Testing/RESTAssured Libraries/testng-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/REST-Assured Testing/RESTAssured Libraries/jcommander-1.27.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
